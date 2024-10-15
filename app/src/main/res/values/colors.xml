@@ -1,0 +1,6 @@
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="editText">#E0E0E0</color> <!-- Ganti ini dengan warna yang Anda inginkan -->
+    <!-- Warna lainnya -->
+</resources>

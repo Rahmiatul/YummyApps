@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YummyApps</string>
+
+    <array name="com_google_android_gms_fonts_certs">
+        <item>YOUR_CERTIFICATE</item>
+    </array>
+</resources>
+
